@@ -1,0 +1,4 @@
+# ws.journaldesfemmes.com
+
+User-agent: *
+Disallow: /
